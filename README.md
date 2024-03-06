@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LucasFaresC, Student at PUC-PR Brazil
-- 🌱 I’m currently learning Python 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Python, C and Solidworks 
+- ⚡ Fun fact: I'm Sãopaulino
 
 <!---
 LucasFaresC/LucasFaresC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
